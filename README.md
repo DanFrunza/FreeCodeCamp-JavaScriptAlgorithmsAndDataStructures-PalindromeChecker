@@ -1,3 +1,3 @@
 # FreeCodeCamp-JavaScriptAlgorithmsAndDataStructures-PalindromeChecker
 
-![Survey Form Screenshot](Palindrom.png)
+![Palindrom](Palindrom2.png)
