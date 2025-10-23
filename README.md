@@ -1,3 +1,3 @@
 # FreeCodeCamp-JavaScriptAlgorithmsAndDataStructures-PalindromeChecker
 
-![Picture](Palindrom2.png)
+![Picturev2](Palindrom2.png)
